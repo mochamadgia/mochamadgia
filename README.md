@@ -37,17 +37,13 @@ Senior Software Engineer with **8+ years of experience** designing and building 
 - **CI/CD & DevOps Automation:** Building automated Jenkins pipelines, integrating SonarQube quality gates, containerizing with Docker, and optimizing delivery workflows.
 
 ---
+## 📜 Certifications
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mochamadgia&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Gia's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochamadgia&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+[![Credly Certification](https://img.shields.io/badge/Credly-Verified_Certification-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/19b73862-f211-4e06-aa6e-10ae0c8e3799/linked_in?t=th32hj)
 
 ---
 
 ## 📬 Let's Connect
 
 - **Website:** [mochamadgia.cloud](https://mochamadgia.cloud/)
-- **LinkedIn:** [Mochamad Gia Priyana P](https://linkedin.com)
+- **LinkedIn:** [Mochamad Gia Priyana P](https://linkedin.com](https://www.linkedin.com/in/mochammad-gia/))
